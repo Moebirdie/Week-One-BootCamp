@@ -12,7 +12,9 @@ N/A at this time.
 
 
 ## Usage
-This assignment can be used as examples of SEO and accessibility improvements.  The repo can be found at       .  The deployed version can be found at     .
+This assignment can be used as examples of SEO and accessibility improvements. 
+
+## Updates and Refactoring items updated 4/13/2023
 
 
 ## License
