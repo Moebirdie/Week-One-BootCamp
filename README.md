@@ -3,7 +3,7 @@ This is the week one challenge repository
 
 
 ## Description
-This repository contains the urban-octo-telegram assignment which requires refactoring of the existing code for improved accessibility which will improve SEO. The refactoring includes specific CSS, HTML and commenting updates within the new code to make it more accessible.  The specific requirements and acceptance criteria are included in the README file of the project which can be found here  urban-octo-telegram\README.md
+This repository contains the Horiseon Website which requires refactoring of the existing code for improved accessibility which will improve SEO. The refactoring includes specific CSS and HTML updates to make it more accessible. Commentting the updates within the new code has also been done to document changes for future reference. 
 
 The outcome of this assignment is meant to improve CSS, HTML and Git skills for laying the foundation for full stack development expertise.
 
@@ -14,7 +14,7 @@ N/A at this time.
 
 ## Usage
 
-This assignment can be used as examples of SEO and accessibility improvements. 
+This Horiseon Website Assignment can be used as examples of SEO and accessibility improvements. 
 
 
 ## Updates and Refactoring items updated 4/13/2023
@@ -26,7 +26,7 @@ Updates include:
 - addition of text hover on menu items to increase accessibility
 - update of the "seo" color within the name to increase the contrast
 - fixing the link for the SEO menu item
-- updates to the header structure to ensure orderly progression of header elements, including change of footer heading selector
+- updates to the heading selectors to ensure orderly progression of heading selectors, including change of footer heading selector
 - inclusion of alt attributes to help identify images
 
 new site image:
