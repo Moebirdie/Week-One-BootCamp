@@ -16,6 +16,13 @@ N/A at this time.
 This assignment can be used as examples of SEO and accessibility improvements. 
 
 ## Updates and Refactoring items updated 4/13/2023
+Updates made include:
+- comments in CSS file to more easily find the css selectors
+- consolidating some css elements to create more efficiency with the css
+- adding change of text hover on menu items to increase accessibility
+- changed color of the "seo" within the name to increase the contrast of colors
+- fixed the link for the SEO menu item
+- updated header structure to ensure orderly progression of header elements
 
 
 ## License
