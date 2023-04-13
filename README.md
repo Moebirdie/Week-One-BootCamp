@@ -7,6 +7,9 @@ This repository contains the Horiseon Website which requires refactoring of the 
 
 The outcome of this assignment is meant to improve CSS, HTML and Git skills for laying the foundation for full stack development expertise.
 
+The live url for the site is: https://moebirdie.github.io/Week-One-BootCamp-Horiseon/Develop/index.html
+the README.md can be found here: https://moebirdie.github.io/Week-One-BootCamp-Horiseon
+The GitHub repository is:  https://github.com/Moebirdie/Week-One-BootCamp-Horiseon
 
 ## Installation
 N/A at this time.
@@ -26,6 +29,7 @@ Updates include:
 - addition of text hover on menu items to increase accessibility
 - update of the "seo" color within the name to increase the contrast
 - fixing the link for the SEO menu item
+- update of HTML to correlate with CSS changes 
 - updates to the heading selectors to ensure orderly progression of heading selectors, including change of footer heading selector
 - inclusion of alt attributes to help identify images
 
