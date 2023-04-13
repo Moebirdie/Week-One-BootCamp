@@ -12,6 +12,7 @@ N/A at this time.
 
 
 ## Usage
+
 This assignment can be used as examples of SEO and accessibility improvements. 
 
 ## Updates and Refactoring items updated 4/13/2023
