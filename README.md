@@ -32,6 +32,7 @@ Updates include:
 new site image:
 ![seohoriseon1](https://user-images.githubusercontent.com/93432701/231764001-51655511-1d65-4cc7-9293-9e4ae7064131.jpeg)
 ![seohoriseon2](https://user-images.githubusercontent.com/93432701/231764031-b58a0446-16c1-4e1a-a2ce-7eb27e11b273.png)
+![seohoriseon3](https://user-images.githubusercontent.com/93432701/231764582-fe499407-6c42-4b73-aa87-7a7aceebc5e2.png)
 
 
 
