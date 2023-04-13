@@ -8,7 +8,7 @@ This repository contains the Horiseon Website which requires refactoring of the 
 The outcome of this assignment is meant to improve CSS, HTML and Git skills for laying the foundation for full stack development expertise.
 
 The live url for the site is: https://moebirdie.github.io/Week-One-BootCamp-Horiseon/Develop/index.html
-the README.md can be found here: https://moebirdie.github.io/Week-One-BootCamp-Horiseon
+The README.md can be found here: https://moebirdie.github.io/Week-One-BootCamp-Horiseon
 The GitHub repository is:  https://github.com/Moebirdie/Week-One-BootCamp-Horiseon
 
 ## Installation
