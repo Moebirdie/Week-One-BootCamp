@@ -1,5 +1,5 @@
-# Week-One-BootCamp
-This is the week one homework repository
+# Week-One-BootCamp - Horiseon Website
+This is the week one challenge repository
 
 
 ## Description
@@ -28,6 +28,12 @@ Updates include:
 - fixing the link for the SEO menu item
 - updates to the header structure to ensure orderly progression of header elements, including change of footer heading selector
 - inclusion of alt attributes to help identify images
+
+new site image:
+![seohoriseon1](https://user-images.githubusercontent.com/93432701/231764001-51655511-1d65-4cc7-9293-9e4ae7064131.jpeg)
+![seohoriseon2](https://user-images.githubusercontent.com/93432701/231764031-b58a0446-16c1-4e1a-a2ce-7eb27e11b273.png)
+
+
 
 ## License
 Licensed under MIT License. Please see separate license details in Repo.
