@@ -27,7 +27,7 @@ Updates include:
 - update of the "seo" color within the name to increase the contrast
 - fixing the link for the SEO menu item
 - updates to the header structure to ensure orderly progression of header elements, including change of footer heading selector
-- inclusion of alt attibutes to help identify images
+- inclusion of alt attributes to help identify images
 
 ## License
 Licensed under MIT License. Please see separate license details in Repo.
